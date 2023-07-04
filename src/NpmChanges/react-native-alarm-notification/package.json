@@ -1,0 +1,72 @@
+{
+  "_from": "react-native-alarm-notification",
+  "_id": "react-native-alarm-notification@1.8.0",
+  "_inBundle": false,
+  "_integrity": "sha512-4PrFdorpF49Rt/XFCdUVkKnxBpqYYzHJq+A+4iRHAQBV9cPUf2jFcna5QHlgoKTUAuTUaxDlIrk2a43ANkZAfg==",
+  "_location": "/react-native-alarm-notification",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-alarm-notification",
+    "name": "react-native-alarm-notification",
+    "escapedName": "react-native-alarm-notification",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-alarm-notification/-/react-native-alarm-notification-1.8.0.tgz",
+  "_shasum": "1bb8f9b881c82257d7c5658da804b551a080a132",
+  "_spec": "react-native-alarm-notification",
+  "_where": "G:\\ReactProject\\CreateFolderFileApp",
+  "author": {
+    "name": "Chukwuemeka Ihedoro",
+    "email": "caihedoro@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/emekalites/react-native-alarm-notification/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "schedule alarm with notification in react-native",
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  },
+  "files": [
+    "README.md",
+    "android",
+    "index.js",
+    "ios",
+    "react-native-alarm-notification.podspec"
+  ],
+  "homepage": "https://github.com/emekalites/react-native-alarm-notification#readme",
+  "keywords": [
+    "react-native",
+    "alarm",
+    "notification",
+    "alarm notification"
+  ],
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "main": "index.js",
+  "name": "react-native-alarm-notification",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emekalites/react-native-alarm-notification.git",
+    "baseUrl": "https://github.com/emekalites/react-native-alarm-notification"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "title": "React Native Alarm Notification",
+  "version": "1.8.0"
+}
